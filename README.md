@@ -1,5 +1,5 @@
 # GII 20.09 Herramienta web repositorios de TFGII
-## Proyecto de prueba
+## Proyecto de prueba - FormularioVaadin
 ### Autora
 Diana Bringas Ochoa
 
